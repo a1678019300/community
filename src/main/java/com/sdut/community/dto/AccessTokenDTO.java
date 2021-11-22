@@ -1,4 +1,4 @@
-package com.sdut.community.controller.dto;
+package com.sdut.community.dto;
 
 //当参数多于两个时候，最好创建一个类封装起来
 public class AccessTokenDTO {

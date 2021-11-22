@@ -1,8 +1,8 @@
-package com.sdut.community.controller.provider;
+package com.sdut.community.provider;
 
 import com.alibaba.fastjson.JSON;
-import com.sdut.community.controller.dto.AccessTokenDTO;
-import com.sdut.community.controller.dto.GithubUser;
+import com.sdut.community.dto.AccessTokenDTO;
+import com.sdut.community.dto.GithubUser;
 import okhttp3.*;
 import org.springframework.stereotype.Component;
 
